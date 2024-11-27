@@ -8583,6 +8583,9 @@ a.ui-button:active, .ui-button:active,
   }
 }
 
+.reception-heading{
+  font-weight: bold;
+}
 /* 3.4 wpo-portfolio-section */
 .wpo-portfolio-section,
 .wpo-portfolio-section-s2 {
